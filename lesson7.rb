@@ -1,1 +1,1 @@
-puts "WEBCAMP".upcase
+puts "webcamp".upcase
