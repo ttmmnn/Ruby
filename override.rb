@@ -7,7 +7,7 @@ end
 class Bus < Car
   def run(distance)
     super
-    puts "30人を乗せて、走っています。"
+    puts "30人乗せて、走っています。"
   end
 end
 
